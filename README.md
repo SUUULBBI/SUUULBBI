@@ -1,5 +1,14 @@
 ## Hi there 👋
+# SEULBI
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/SUUULBBI"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <!--
 **SUUULBBI/SUUULBBI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
